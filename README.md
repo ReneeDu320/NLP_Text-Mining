@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Category-ML--Classification-success)
+![](https://img.shields.io/badge/Program-Python-green)
+![](https://img.shields.io/badge/Resource-Open-blue)
 ### NLP_Text-Mining
 
 The data is from YELP Review dataset and has been labeled. Positive reviews: 1/ Negative reviews: 0
